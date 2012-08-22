@@ -1,0 +1,12 @@
+{
+	"name":        "irc-log-player",
+	"version":     "0.0.1",
+	"author":      "Louis Jeng <louisje@gmail.com>",
+	"description": "IRC Log Player plays IRC archived log in terminal",
+	"private":     true,
+	"dependencies": {
+		"jquery": "*",
+		"sprintf": "*",
+		"fs": "*"
+	}
+}
